@@ -18,4 +18,5 @@
 - heroku create attreyaweb (to create an app on heroku)
 - git status git commands (git push heroku master)
 - Open up the website
-- Admin panel not working. heroku run bash. Migrations
+- Admin panel not working. heroku run bash. (Please do not be tempted to run 'makemigrations' on heroku bash!!! It just creates a migrations file that will cause you a lot of trouble when deploying)
+-Migrations
