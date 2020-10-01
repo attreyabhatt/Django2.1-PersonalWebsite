@@ -3,7 +3,7 @@
 - Create an Heroku account
 - install pipenv
 - Install git ( check git --version)
-- Install Heroku CLI
+-# Install Heroku CLI fuck you
 - Login heroku
 - Create a virtual enviroment
 - Run manage.py not gonna run - pip freeze nothing installing
