@@ -19,3 +19,4 @@
 - git status git commands (git push heroku master)
 - Open up the website
 - Admin panel not working. heroku run bash. Migrations
+- Exit
