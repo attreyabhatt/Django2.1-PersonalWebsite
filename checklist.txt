@@ -1,4 +1,4 @@
-- Copy the project seperately
+- Copy the project seperately with all data
 - Go to 'Getting Started on Heroku with Python'
 - Create an Heroku account
 - install pipenv
